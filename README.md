@@ -3,6 +3,7 @@ Projeto elaborado pelos alunos da UFABC:
 - Victor Hugo Almeida
 
 Implementação de uma tabela hash em C:
+- Tabela Hash para armazeanmento de Nome (chave) e CPF (valor).
 - Solução de colisão por encadeamento;
 - Interface interativa;
 - Redimensionamento automático do tamanho da tabela;
