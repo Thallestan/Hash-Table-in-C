@@ -1,5 +1,5 @@
 #include "HashTable.c" 
-#include "Hashtable.h"
+#include "HashTable.h"
 
 
 int main() {
